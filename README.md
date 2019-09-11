@@ -8,7 +8,7 @@ Here is the link to the [_Licence Information link_](https://github.com/anitha19
  This assignment has the information about how to structure the datfiles for usability.
 > * [**_Data Exploration_**]()  
   This assignment is about  
-    * Data exploration using R.  
-    * Document creation with exported plots.  
+    * Data exploration using R.
+    * Document creation with exported plots.
     * Summary of findings in Markdown Document.
 
