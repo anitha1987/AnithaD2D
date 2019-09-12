@@ -2,9 +2,9 @@
 
  This is my personal repository created for Data to Decisions course and this contains information about the following  
  ```
- * Course
- * Links to Individual Assignments
- * License Used  
+ > Course
+ > Links to Individual Assignments
+ > License Used  
  ```
  
 ## **Course Information**
