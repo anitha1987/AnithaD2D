@@ -11,7 +11,8 @@
 
 **FROM DATA TO DECISIONS**
 
-![image](https://gcn.com/blogs/pulse/2016/07/-/media/GIG/GCN/Redesign/Articles/2016/July/D2D.png)
+![image](https://github.com/anitha1987/anithaD2D/blob/master/D2D.png)
+(https://gcn.com/blogs/pulse/2016/07/-/media/GIG/GCN/Redesign/Articles/2016/July/D2D.png)
 
 
 ## **Individual Assignment Links**
