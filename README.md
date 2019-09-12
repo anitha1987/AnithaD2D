@@ -1,6 +1,6 @@
 # **Data to Decisions Assignment Repository**
 
-> This is my personal repository created for Data to Decisions course and this contains information about the following
+ This is my personal repository created for Data to Decisions course and this contains information about the following
  * Course Details
  * Links to Individual Assignments
  * License Information
@@ -13,19 +13,14 @@
 
 ![image](https://gcn.com/blogs/pulse/2016/07/-/media/GIG/GCN/Redesign/Articles/2016/July/D2D.png)
 
-### **Instructor**
-**_Andrea Wiggins_**
 
 ## **Individual Assignment Links**
 
 * #### [**Data Entry Analysis**]() 
 
-![image1](https://image.flaticon.com/icons/svg/993/993936.svg){:height="50%" width="50%"}
-
- This assignment has the information about how to structure the data files for usability.
+This assignment has the information about how to structure the data files for usability.
  
 * #### [**Data Exploration**]() 
-![image2]()
 
 This assignment is about
   * Data exploration using **_R_**.
