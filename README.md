@@ -13,4 +13,4 @@ Here is the link to the [_License Information_](https://github.com/anitha1987/an
 
 
 
-![image](https://www.pcwarebus.com/wp-content/uploads/2015/11/Data-to-Decisions.jpg)
+![image](https://gcn.com/blogs/pulse/2016/07/-/media/GIG/GCN/Redesign/Articles/2016/July/D2D.png)
