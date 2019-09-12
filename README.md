@@ -29,7 +29,9 @@ This assignment has the information about how to structure the data files for us
  
 * #### [**Data Exploration**]() 
 
-![DataExploration](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Exploration.jpg)
+![DataExploration][image1]
+
+[image1](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Exploration.jpg)
 
 This assignment is about 
 ```
