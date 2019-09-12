@@ -3,9 +3,9 @@
 
 ## **Course Information**
 
-### **ISQA8086 - FROM DATA TO DECISIONS**
+### **ISQA8086**
 
-[Data to Decisions Image][image]
+_**FROM DATA TO DECISIONS**_
 
 ![image](https://gcn.com/blogs/pulse/2016/07/-/media/GIG/GCN/Redesign/Articles/2016/July/D2D.png)
 
