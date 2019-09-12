@@ -20,7 +20,7 @@
 
 * #### [**Data Entry Analysis**]() 
 
-![image1](https://image.flaticon.com/icons/svg/993/993936.svg)
+![image1](https://image.flaticon.com/icons/svg/993/993936.svg =50x50)
 
  This assignment has the information about how to structure the data files for usability.
  
