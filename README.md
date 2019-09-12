@@ -19,8 +19,14 @@
 ## **Individual Assignment Links**
 
 * #### [**Data Entry Analysis**]() 
+
+![image1](https://image.flaticon.com/icons/svg/993/993936.svg)
+
  This assignment has the information about how to structure the data files for usability.
-* #### [**Data Exploration**]()  
+ 
+* #### [**Data Exploration**]() 
+![image2]()
+
 This assignment is about
   * Data exploration using **_R_**.
   * Document creation with **_exported plots_**.
