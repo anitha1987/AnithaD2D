@@ -32,11 +32,11 @@ This assignment has the information about how to structure the data files for us
 ![DataExploration](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Exploration.jpg)
 
 This assignment is about 
-
-* Data exploration using **_R_**.
-* Document creation with **_exported plots_**.
-* Summary of findings in **_Markdown document_**.
-
+```
+* Data exploration using **R**.
+* Document creation with **exported plots**.
+* Summary of findings in **Markdown document**.
+```
  
 ## **License Information**
 
