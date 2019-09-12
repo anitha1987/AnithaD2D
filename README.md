@@ -20,18 +20,18 @@
 
 ## **Individual Assignment Links**
 
-* #### [**Data Entry Analysis**]() 
+* ### [**Data Entry Analysis**]() 
 
 ![DataAnalysis](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Analysis.jpg)
 
-> This assignment has the information about how to structure the data files for usability.
+ This assignment has the information about how to structure the data files for usability.
 
  
-* #### [**Data Exploration**]() 
+* ### [**Data Exploration**]() 
 
 ![DataExploration](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Exploration.jpg)
 
-> This assignment is about 
+ This assignment is about 
 
 * Data exploration using **_R_**.
 * Document creation with **_exported plots_**.
