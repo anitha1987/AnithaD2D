@@ -1,6 +1,6 @@
 # **Data to Decisions Assignment Repository**
 
- This is my personal repository created for Data to Decisions course and this contains information about the following
+> This is my personal repository created for Data to Decisions course and this contains information about the following
  * Course Details
  * Links to Individual Assignments
  * License Information
@@ -10,12 +10,14 @@
 ### **ISQA8086**
 
 **FROM DATA TO DECISIONS**
+
 ![image](https://gcn.com/blogs/pulse/2016/07/-/media/GIG/GCN/Redesign/Articles/2016/July/D2D.png)
 
 ### **Instructor**
 **_Andrea Wiggins_**
 
-### **Assignment Details**
+## **Individual Assignment Links**
+
 * #### [**Data Entry Analysis**]() 
  This assignment has the information about how to structure the data files for usability.
 * #### [**Data Exploration**]()  
