@@ -20,14 +20,14 @@
 
 ## **Individual Assignment Links**
 
-### [**Data Entry Analysis**]() 
+### [**Data Entry Analysis Link**]() 
 
 ![DataAnalysis](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Analysis.jpg)
 
  This assignment has the information about how to structure the data files for usability.
 
  
-### [**Data Exploration**]() 
+### [**Data Exploration Link**]() 
 
 ![DataExploration](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Exploration.jpg)
 
