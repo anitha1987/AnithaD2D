@@ -1,12 +1,15 @@
 # **Data to Decisions Assignment Repository**
- I am using this repository to have all my data to decisions course individual assignment links and details about the license and course. 
 
+ This is my personal repository created for Data to Decisions course and this contains information about the following
+ * Course Details
+ * Links to Individual Assignments
+ * License Information
+ 
 ## **Course Information**
 
 ### **ISQA8086**
 
-_**FROM DATA TO DECISIONS**_
-
+**FROM DATA TO DECISIONS**
 ![image](https://gcn.com/blogs/pulse/2016/07/-/media/GIG/GCN/Redesign/Articles/2016/July/D2D.png)
 
 ### **Instructor**
