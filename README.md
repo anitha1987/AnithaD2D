@@ -2,9 +2,9 @@
 
  This is my personal repository created for Data to Decisions course and this contains information about the following  
  ```
- * Course Details
+ * Course
  * Links to Individual Assignments
- * License Information  
+ * License Used  
  ```
  
 ## **Course Information**
@@ -14,18 +14,29 @@
 **FROM DATA TO DECISIONS**
 
 ![image](https://github.com/anitha1987/anithaD2D/blob/master/D2D.png)
-(https://gcn.com/blogs/pulse/2016/07/-/media/GIG/GCN/Redesign/Articles/2016/July/D2D.png)
 
+### **Instructor**
+**_Andrea Wiggins_**
 
 ## **Individual Assignment Links**
 
 * #### [**Data Entry Analysis**]() 
 
+![DataAnalysis](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Analysis.jpg)
+
 This assignment has the information about how to structure the data files for usability.
+
  
 * #### [**Data Exploration**]() 
 
-This assignment is about Data exploration using **_R_**.
+![DataExploration](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Exploration.jpg)
+
+This assignment is about 
+```
+* Data exploration using **_R_**.
+* Document creation with **_exported plots_**.
+* Summary of findings in **_Markdown document_**.
+```
  
 ## **License Information**
 
