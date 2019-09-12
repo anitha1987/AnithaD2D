@@ -40,7 +40,7 @@
  
 ## **License Information**
 
-> Here is the link to the [_License Information_](https://github.com/anitha1987/D2D-Anitha/blob/master/LICENSE),if you click on the link you  could view the detailed information about the MIT licencse that I am using for this project.
+> Here is the link to the [_License Information_](https://github.com/anitha1987/D2D-Anitha/blob/master/LICENSE),click the link to view the detailed information about the MIT licencse that I am using for this project.
 
 ## **Author**
 
