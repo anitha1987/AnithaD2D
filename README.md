@@ -1,7 +1,7 @@
 # **Data to Decisions Assignment Repository**
 
  This is my personal repository created for Data to Decisions course and this contains information about the following  
- -> HELOOOO <-
+ -> -HELOOOO <-
  * Course Details
  * Links to Individual Assignments
  * License Information
